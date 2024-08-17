@@ -1,3 +1,11 @@
+/* body {
+  background-image:    radial-gradient(50% 30% ellipse at center top, #201e40 0%, rgba(0,0,0,0) 100%),    radial-gradient(60% 50% ellipse at center bottom, #261226 0%, #100a1c 100%);
+background-image: linear-gradient(to right, #fbc2eb 0%, #a6c1ee 51%, #fbc2eb 100%);
+  min-height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+} */
+
 .App {
   text-align: center;
 }

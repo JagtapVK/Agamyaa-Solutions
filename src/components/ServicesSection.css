@@ -1,0 +1,14 @@
+/* ServicesSection.css */
+
+/* Add margin between the cards */
+.col-md-4 {
+    padding: 20px;
+  }
+  
+  /* Optional: Adjust the card itself */
+  .service-card {
+    border-color: red;
+    /* border-radius: 40px; */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
